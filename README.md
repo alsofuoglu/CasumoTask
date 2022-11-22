@@ -9,7 +9,7 @@ In this example project, REST-assured is used to implement a suite of functional
 
 ## Installation
  ```
-* git clone project : git@github.com:mayank-kapoor/api-test-demo.git
+* git clone project : https://github.com/alsofuoglu/CasumoTask.git
 
 * cd CasumoTask
 
